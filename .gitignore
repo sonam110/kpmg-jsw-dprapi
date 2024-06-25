@@ -1,0 +1,25 @@
+/node_modules
+# /public/hot
+# /public/storage
+# /public/reports
+# /public/export
+# /public/uploads
+# /public/user/import
+# /public/user
+# /public/certificates
+# /storage/*.key
+# /vendor
+kpmg-dpr-api.zip
+app.zip
+vendor.zip
+.env
+.env.backup
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
+# /storage
